@@ -5,14 +5,13 @@ In this project, we will develop three common linked data structures: a **sorted
 
 This project focuses on building the infrastructure (the data structures themselves) for later use in Project 5. You will need to write a main function to test your implementations. This function is for build purposes and testing but is not the focus of the project.
 
-## Project Requirements
+## Project Introduction
 
 - **Doubly-Linked List**: Implement a sorted doubly-linked list.
 - **Queue**: Implement a simple FIFO queue.
 - **Stack**: Implement a simple LIFO stack.
 - **Memory Management**: Ensure proper memory handling and avoid memory leaks using tools like `valgrind`.
 - **Makefile**: A valid `Makefile` for compiling the project.
-- **Submission**: Submit all relevant `.h` and `.cpp` files, your `Makefile`, and a typescript file showing `valgrind` usage.
 
 ## Classes Implemented
 
