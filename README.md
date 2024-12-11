@@ -93,7 +93,8 @@ public:
 ## Example Usage
 
 ### Compilation
+Change the MakeFile from **proj4.exe** into **project4_test.exe**
 ```bash
 make
-./proj4.exe
+./project4_test.exe
 ```
