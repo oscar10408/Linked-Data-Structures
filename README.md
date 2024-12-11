@@ -88,3 +88,12 @@ public:
     int getSize() const;
 };
 ```
+
+---
+## Example Usage
+
+### Compilation
+```bash
+make
+./proj4.exe
+```
